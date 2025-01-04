@@ -12,6 +12,9 @@ import androidx.compose.material.TopAppBar
 import androidx.compose.material3.Scaffold
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
+import androidx.navigation.NavController
+import androidx.navigation.NavHostController
+import androidx.navigation.compose.rememberNavController
 import applestorekotlinmultiplatform.composeapp.generated.resources.Res
 import applestorekotlinmultiplatform.composeapp.generated.resources.mac_mini_m4
 import org.yougotnothing.apple_store_kotlin_multiplatform.data.Products
@@ -41,7 +44,9 @@ fun MainAppBar(
 }
 
 @Composable
-fun MainApp() {
+fun MainApp(
+    navController: NavHostController = rememberNavController()
+) {
     Scaffold {
         MainAppBar(canNavigateBack = false, navigateUp = {})
         Column { Text(text = "MainAppScreen") }

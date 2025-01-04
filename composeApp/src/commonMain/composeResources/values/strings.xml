@@ -1,0 +1,213 @@
+<resources>
+
+    <!-- Mac Mini M4 Values -->
+    <string name="mac_mini_m4">Mac Mini M4</string>
+    <string-array name="mac_mini_m4_ram">
+        <string>16 GB</string>
+        <string>24 GB</string>
+        <string>32 GB</string>
+    </string-array>
+    <string-array name="mac_mini_m4_memory">
+        <string>256 GB</string>
+        <string>512 GB</string>
+        <string>1 TB</string>
+        <string>2 TB</string>
+    </string-array>
+    <string-array name="mac_mini_m4_ethernet">
+        <string>Gigabit Ethernet</string>
+        <string>10 Gigabit Ethernet</string>
+    </string-array>
+
+    <!-- Mac Mini M4 Pro Values -->
+    <string name="mac_mini_m4_pro">Mac Mini M4 Pro</string>
+    <string-array name="mac_mini_m4_pro_processor_cores">
+        <string>Apple M4 Pro with 12-cores CPU, 16-cores GPU and 16-cores system Neutral Engine</string>
+        <string>Apple M4 Pro with 14-cores CPU, 20-cores GPU and 16-cores system Neutral Engine</string>
+    </string-array>
+    <string-array name="mac_mini_m4_pro_ram">
+        <string>24 GB</string>
+        <string>48 GB</string>
+        <string>64 GB</string>
+    </string-array>
+    <string-array name="mac_mini_m4_pro_memory">
+        <string>512 GB</string>
+        <string>1 TB</string>
+        <string>2 TB</string>
+        <string>4 TB</string>
+        <string>8 TB</string>
+    </string-array>
+
+    <!-- Mac Studio M2 Max | Ultra Values -->
+    <string name="mac_studio_m2">Mac Studio M2</string>
+    <string-array name="mac_studio_m2_processor_cores">
+        <string>Apple M2 Max with 12-core CPU, 30-core GPU and 16-core system Neutral Engine</string>
+        <string>Apple M2 Max with 12-core CPU, 38-core GPU and 16-core system Neutral Engine</string>
+        <string>Apple M2 Ultra with 24-core CPU, 60-core GPU and 32-core system Neutral Engine</string>
+        <string>Apple M2 Ultra with 24-core CPU, 76-core GPU and 32-core system Neutral Engine</string>
+    </string-array>
+    <string-array name="mac_studio_m2_ram">
+        <string>32 GB</string>
+        <string>64 GB</string>
+        <string>96 GB</string>
+        <string>128 GB</string>
+        <string>192 GB</string>
+    </string-array>
+    <string-array name="mac_studio_m2_memory">
+        <string>512 GB</string>
+        <string>1 TB</string>
+        <string>2 TB</string>
+        <string>4 TB</string>
+        <string>8 TB</string>
+    </string-array>
+
+    <!-- IMac M4 values -->
+    <string name="imac_m4">IMac M4</string>
+    <string-array name="imac_m4_colors">
+        <string>blue</string>
+        <string>purple</string>
+        <string>pink</string>
+        <string>orange</string>
+        <string>yellow</string>
+        <string>green</string>
+        <string>silver</string>
+    </string-array>
+    <string-array name="imac_m4_gigabit_ethernet">
+        <string>No Ethernet interface</string>
+        <string>Gigabit Ethernet</string>
+    </string-array>
+    <string-array name="imac_m4_mouse_or_trackpad">
+        <string>Magic Mouse</string>
+        <string>Magic Trackpad</string>
+    </string-array>
+    <string-array name="imac_m4_keyboard_language">
+        <string>Magic Keyboard — english (international)</string>
+        <string>Magic Keyboard — english (USA)</string>
+        <string>Magic Keyboard — russian</string>
+        <string>Magic Keyboard — english (United Kingdom)</string>
+        <string>Magic keyboard — german</string>
+    </string-array>
+
+    <!-- MacBook Global Values -->
+    <string-array name="macbook_keyboard_language">
+        <string>Backlit Magic Keyboard with Touch ID — english (international)</string>
+        <string>Backlit Magic Keyboard with Touch ID — english (USA)</string>
+        <string>Backlit Magic Keyboard with Touch ID — russian</string>
+        <string>Backlit Magic Keyboard with Touch ID — english (United Kingdom)</string>
+        <string>Backlit Magic keyboard with Touch ID — german</string>
+    </string-array>
+
+    <!-- MacBook Pro M4 Values -->
+    <string name="macbook_pro_m4">MacBook Pro M4</string>
+    <string-array name="macbook_pro_m4_inch">
+        <string>14 Inch</string>
+        <string>16 Inch</string>
+    </string-array>
+    <string-array name="macbook_pro_m4_color">
+        <string>Space Black</string>
+        <string>silver</string>
+    </string-array>
+    <string-array name="macbook_pro_m4_display">
+        <string>Standard display</string>
+        <string>Nanostructured display</string>
+    </string-array>
+    <string-array name="macbook_pro_m4_ram">
+        <string>16 GB</string>
+        <string>24 GB</string>
+        <string>32 GB</string>
+    </string-array>
+    <string-array name="macbook_pro_m4_memory">
+        <string>512 GB</string>
+        <string>1 TB</string>
+        <string>2 TB</string>
+    </string-array>
+    <string-array name="macbook_pro_m4_power_supply">
+        <string>Power supply USB-C 70 W</string>
+        <string>Power supply USB-C 96 W</string>
+    </string-array>
+
+    <!-- MacBook Pro M4 Max Values -->
+    <string name="macbook_pro_m4_max">MacBook Pro M4 Max</string>
+    <string-array name="macbook_pro_m4_max_processor_cores">
+        <string>Apple M4 Max with 14-core CPU, 32-core GPU and 16-core system Neutral Engine</string>
+        <string>Apple M4 Max with 16-core CPU, 40-core GPU and 16-core system Neutral Engine</string>
+    </string-array>
+    <string-array name="macbook_pro_m4_max_ram">
+        <string>36 GB</string>
+        <string>48 GB</string>
+        <string>64 GB</string>
+        <string>128 GB</string>
+    </string-array>
+    <string-array name="macbook_pro_m4_max_memory">
+        <string>1 TB</string>
+        <string>2 TB</string>
+        <string>4 TB</string>
+        <string>8 TB</string>
+    </string-array>
+
+    <!-- MacBook Pro M4 Pro Values -->
+    <string name="macbook_pro_m4_pro">MacBook Pro M4 Pro</string>
+    <string-array name="macbook_pro_m4_pro_processor_cores">
+        <string>Apple M4 Pro with 12-core CPU, 20-core GPU and 16-core system Neutral Engine</string>
+        <string>Apple M4 Pro with 12-core CPU, 16-core GPU and 16-core system Neutral Engine</string>
+        <string>Apple M4 Max with 14-core CPU, 32-core GPU and 16-core system Neutral Engine</string>
+        <string>Apple M4 Max with 16-core CPU, 40-core GPU and 16-core system Neutral Engine</string>
+    </string-array>
+    <string-array name="macbook_pro_m4_pro_ram">
+        <string>24 GB</string>
+        <string>36 GB</string>
+        <string>48 GB</string>
+        <string>64 GB</string>
+        <string>128 GB</string>
+    </string-array>
+    <string-array name="macbook_pro_m4_pro_memory">
+        <string>512 GB</string>
+        <string>1 TB</string>
+        <string>2 TB</string>
+        <string>4 TB</string>
+        <string>8 TB</string>
+    </string-array>
+
+    <!-- MacBook Air Global Values -->
+    <string-array name="macbook_air_ram">
+        <string>16 GB</string>
+        <string>24 GB</string>
+    </string-array>
+    <string-array name="macbook_air_color">
+        <string>midnight blue</string>
+        <string>moonlight gold</string>
+        <string>starry grey</string>
+        <string>silver</string>
+    </string-array>
+
+    <!-- MacBook Air M2 Values -->
+    <string name="macbook_air_m2">MacBook Air M2</string>
+    <string-array name="macbook_air_m2_processor_cores">
+        <string>Apple M2 with 8-core CPU, 8-core GPU and 16-core system Neutral Engine</string>
+        <string>Apple M2 with 8-core CPU, 10-core GPU and 16-core system Neutral Engine</string>
+    </string-array>
+    <string-array name="macbook_air_m2_memory">
+        <string>256 GB</string>
+        <string>512 GB</string>
+        <string>1 TB</string>
+        <string>2 TB</string>
+    </string-array>
+    <string-array name="macbook_air_m2_power_supply">
+        <string>Power supply USB-C 30 W</string>
+        <string>Power supply USB-C 35 W</string>
+        <string>Power supply USB-C 70-W</string>
+    </string-array>
+
+    <!-- MacBook Air M3 -->
+    <string name="macbook_air_m3">MacBook Air M3</string>
+    <string-array name="macbook_air_m3_memory">
+        <string>512 GB</string>
+        <string>1 TB</string>
+        <string>2 TB</string>
+    </string-array>
+    <string-array name="macbook_air_m3_power_supply">
+        <string>Power supply USB-C 30 W</string>
+        <string>Power supply USB-C 35 W</string>
+        <string>Power supply USB-C 70-W</string>
+    </string-array>
+
+</resources>
